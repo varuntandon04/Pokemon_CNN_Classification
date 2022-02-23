@@ -6,4 +6,4 @@ The CNN used is a variant of the VGG-16 network. The metrics used here are accur
 
 The result is given below:
 
-![]()
+![](images/pokeacc.JPG)
